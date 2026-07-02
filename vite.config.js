@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // change base to '/'.
 export default defineConfig({
   plugins: [react()],
-  base: '/blackjack-ai/',
+  // base: '/',
 })
